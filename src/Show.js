@@ -65,4 +65,3 @@ var Show = createClass({
     }
 });
 
-module.exports = Show;
